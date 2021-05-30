@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeworkOne</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="привет">привет</string>
+    <string name="подписаться">Подписаться на рассылку</string>
+    <string name="чекбокс">Согласен на обработку персональных данных</string>
+    <string name="готово">готово</string>
+    <string name="завершить">завершить</string>
+    <string name="имя">Имя</string>
+    <string name="Пароль">Пароль</string>
+    <string name="email">E-mail</string>
+    <string name="фамилия">Фамилия</string>
+    <string name="Телефон">Телефон</string>
+</resources>
